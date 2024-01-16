@@ -20,6 +20,7 @@ Include screenshots or images showcasing your project. Use relative paths for im
 ![Screenshot 7](./screenshots/screenshot7.jpg)
 ![Screenshot 8](./screenshots/screenshot8.jpg)
 ![Screenshot 9](./screenshots/screenshot9.jpg)
+![Screenshot 10](./screenshots/screenshot10.jpg)
 
 ## Features
 
