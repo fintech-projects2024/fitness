@@ -11,15 +11,15 @@ This Project helps you maintain student data.
 
 Include screenshots or images showcasing your project. Use relative paths for images inside your project.
 
-![Screenshot 1](./screenshots/screenshot1.jpg)
+![Screenshot 1](./screenshots/screenshot1.png)
 ![Screenshot 2](./screenshots/screenshot2.jpg)
-![Screenshot 3](./screenshots/screenshot3.jpg)
+![Screenshot 3](./screenshots/screenshot3.png)
 ![Screenshot 4](./screenshots/screenshot4.jpg)
-![Screenshot 5](./screenshots/screenshot5.jpg)
+![Screenshot 5](./screenshots/screenshot5.png)
 ![Screenshot 6](./screenshots/screenshot6.jpg)
-![Screenshot 7](./screenshots/screenshot7.jpg)
+![Screenshot 7](./screenshots/screenshot7.png)
 ![Screenshot 8](./screenshots/screenshot8.jpg)
-![Screenshot 9](./screenshots/screenshot9.jpg)
+![Screenshot 9](./screenshots/screenshot9.png)
 ![Screenshot 10](./screenshots/screenshot10.jpg)
 
 ## Features
