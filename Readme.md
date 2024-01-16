@@ -1,4 +1,4 @@
-# Project Title
+# Fitness System
 
 This Project helps you maintain student data.
 
