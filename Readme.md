@@ -1,6 +1,7 @@
 # Fitness System
 
 This Project helps you maintain student data.
+Created by Mann Shrimali B.Sc. Data Sem 5
 
 ## Table of Contents
 - [Screenshots](#screenshots)
